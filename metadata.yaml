@@ -1,0 +1,32 @@
+_repo: The-little-grey-lamb-and-other-Christmas-poems_75153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gowen, Herbert H. (Herbert Henry)
+    alias: Gowen, Herbert Henry
+    birthdate: 1864
+    deathdate: 1960
+    gutenberg_agent_id: '57857'
+    url: http://www.gutenberg.org/2009/agents/57857
+    wikipedia: https://en.wikipedia.org/wiki/Herbert_Henry_Gowen
+description: ''
+gutenberg_issued: '2025-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75153'
+  lccn: '28030359'
+language: en
+pgterms:marc905: 20250110143538gowen
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aMilwaukee :$bMorehouse Publishing Co., $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas poetry'
+- !lcc 'PS'
+- GITenberg
+title: The little grey lamb, and other Christmas poems
+url: http://www.gutenberg.org/ebooks/75153
